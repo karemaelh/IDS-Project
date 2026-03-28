@@ -3,7 +3,7 @@
 > Work in progress — building a full IDS lab from scratch
 
 ## Status
-  Currently on: Phase 3 — Wireshark
+  Currently on: Phase 4 — Snort Setup
 
 ## What this project covers
 - Custom Snort rules for detecting real attacks
