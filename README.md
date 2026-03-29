@@ -3,7 +3,7 @@
 > Work in progress — building a full IDS lab from scratch
 
 ## Status
-  Currently on: Phase 6 — Attack Simulation
+  Currently on: Phase 7 — Dashboard
 
 ## What this project covers
 - Custom Snort rules for detecting real attacks
